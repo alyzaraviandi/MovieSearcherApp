@@ -33,3 +33,11 @@ Enjoy the flexibility to manage your list of favorite movies seamlessly.
 
 Data Source
 The application fetches data from the IMDB API via RapidApi. In case the data is empty, the app provides clear information to users about the absence of available data.
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://drive.google.com/uc?id=1L3p2Wf69pIU_nd16UYQWkgdd-_nc_FqG" alt="Alt Text" width="150"/>
+  <img src="https://drive.google.com/uc?id=1foA8dLa86OdHFQS-3iAwgAXUMKisL2Ya" alt="Alt Text" width="150"/>
+  <img src="https://drive.google.com/uc?id=1-uI3e8HjfT6CWgXZs11VByTZsTsLmAUC" alt="Alt Text" width="150"/>
+  <img src="https://drive.google.com/uc?id=15EacyB_7-rXlsGiyLSfqpi8f5ntrSA_d" alt="Alt Text" width="150"/>
+  <img src="https://drive.google.com/uc?id=1eeiv2IiwJUKQaHcQmQRJyd7m3XboDX-n" alt="Alt Text" width="150"/>
+</div>
