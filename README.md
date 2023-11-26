@@ -23,14 +23,14 @@ Learn more about the developer!
 Access the About Page through a designated button labeled "about_page."
 View a photo of the developer, along with their name and Dicoding-registered email.
 
-<img src="https://drive.google.com/uc?id=1-uI3e8HjfT6CWgXZs11VByTZsTsLmAUC" alt="Alt Text" width="400"/>
+<img src="https://drive.google.com/uc?id=1-uI3e8HjfT6CWgXZs11VByTZsTsLmAUC" alt="Alt Text" width="150"/>
 
 4. Search Feature
 Enable a powerful search feature based on user-entered keywords.
 If the search field is populated, display only data with titles matching the entered keywords.
 An empty search field shows all available movie data.
 
-<img src="https://drive.google.com/uc?id=15EacyB_7-rXlsGiyLSfqpi8f5ntrSA_d" alt="Alt Text" width="500"/>
+<img src="https://drive.google.com/uc?id=15EacyB_7-rXlsGiyLSfqpi8f5ntrSA_d" alt="Alt Text" width="150"/>
 
 5. ViewModel Integration
 Leverage the power of ViewModel to implement a robust and efficient search feature.
@@ -39,7 +39,7 @@ Leverage the power of ViewModel to implement a robust and efficient search featu
 Enhance user interaction with the ability to add and delete favorite movie data.
 Enjoy the flexibility to manage your list of favorite movies seamlessly.
 
-<img src="https://drive.google.com/uc?id=1eeiv2IiwJUKQaHcQmQRJyd7m3XboDX-n" alt="Alt Text" width="600"/>
+<img src="https://drive.google.com/uc?id=1eeiv2IiwJUKQaHcQmQRJyd7m3XboDX-n" alt="Alt Text" width="150"/>
 
 Data Source
 The application fetches data from the IMDB API via RapidApi. In case the data is empty, the app provides clear information to users about the absence of available data.
