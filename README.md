@@ -9,8 +9,8 @@ Display a curated list of at least 10 different movie items.
 Organize the data using LazyList/LazyGrid for an efficient and smooth user experience.
 Clicking on an item navigates the user to the Detail Page for more information.
 
-![List](https://drive.google.com/uc?id=1L3p2Wf69pIU_nd16UYQWkgdd-_nc_FqG
-)
+<img src="https://drive.google.com/uc?id=1L3p2Wf69pIU_nd16UYQWkgdd-_nc_FqG" alt="List" width="200"/>
+
 
 3. Detail Page
 Showcase detailed information about selected movies.
