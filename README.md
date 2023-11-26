@@ -9,28 +9,29 @@ Display a curated list of at least 10 different movie items.
 Organize the data using LazyList/LazyGrid for an efficient and smooth user experience.
 Clicking on an item navigates the user to the Detail Page for more information.
 
-<img src="https://drive.google.com/uc?id=1L3p2Wf69pIU_nd16UYQWkgdd-_nc_FqG" alt="List" width="200"/>
+<img src="https://drive.google.com/uc?id=1L3p2Wf69pIU_nd16UYQWkgdd-_nc_FqG" alt="List" width="300"/>
 
-
-3. Detail Page
+2. Detail Page
 Showcase detailed information about selected movies.
 Include images and relevant details, maintaining consistency with the List Page.
 Additional information on the Detail Page enhances the user's understanding of the movie.
 
-4. About Page
+<img src="https://drive.google.com/uc?id=1foA8dLa86OdHFQS-3iAwgAXUMKisL2Ya" alt="Alt Text" width="300"/>
+
+3. About Page
 Learn more about the developer!
 Access the About Page through a designated button labeled "about_page."
 View a photo of the developer, along with their name and Dicoding-registered email.
 
-5. Search Feature
+4. Search Feature
 Enable a powerful search feature based on user-entered keywords.
 If the search field is populated, display only data with titles matching the entered keywords.
 An empty search field shows all available movie data.
 
-6. ViewModel Integration
+5. ViewModel Integration
 Leverage the power of ViewModel to implement a robust and efficient search feature.
 
-7. Add & Delete Data Feature
+6. Add & Delete Data Feature
 Enhance user interaction with the ability to add and delete favorite movie data.
 Enjoy the flexibility to manage your list of favorite movies seamlessly.
 
