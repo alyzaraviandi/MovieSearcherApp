@@ -1,7 +1,7 @@
 # MovieSearcherApp
 
 Movie App
-Welcome to the Movie App! This application provides a seamless experience for exploring and managing your favorite movies. Utilizing the IMDB API from RapidApi, the app offers a variety of features to enhance your movie-watching experience.
+Welcome to the Movie App! This application provides a seamless experience for exploring and managing your favorite movies. Utilizing the IMDB API from RapidApi, the app offers a variety of features to enhance your movie-watching experience. Part of my submission on Dicoding Course: Making Apps with Jetpack Compose
 
 Features
 1. List Page
